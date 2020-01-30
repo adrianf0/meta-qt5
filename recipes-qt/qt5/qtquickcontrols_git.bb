@@ -17,6 +17,6 @@ FILES_${PN}-qmlplugins += " \
   ${OE_QMAKE_PATH_QML}/QtQuick/Dialogs/qml/icons.ttf \
 "
 
-SRCREV = "c8a2a74b2839d9d6c5f8f6f9034470dafc8bcc40"
+SRCREV = "ce14a8a4b2b99f91a21e1dce508688d7cd3dbe0e"
 
 QT_MODULE_BRANCH_PARAM = "nobranch=1"
